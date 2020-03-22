@@ -1,5 +1,5 @@
 {
-  "name": "react-native-web-galio-framework",
+  "name": "galio-framework",
   "main": "src/index.js",
   "version": "0.6.3",
   "files": [
@@ -7,12 +7,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShadowMinhja/react-native-web-galio-framework.git"
+    "url": "https://github.com/ShadowMinhja/galio-framework.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShadowMinhja/react-native-web-galio-framework/issues"
+    "url": "https://github.com/ShadowMinhja/galio-framework/issues"
   },
   "homepage": "https://galio.io/",
   "keywords": [
